@@ -11,10 +11,15 @@ public class Client {
         // This is work that is being done by Extra
         System.out.println("Some work that is being done by Extra");
 
+
+        // More Extra
+        System.out.println("Extra!!");
+
         // this is work that Jun is doing
         System.out.println("Some work that Jun was working on");
 
         // client test
         System.out.println("Jun working again...");
+
     }
 }
