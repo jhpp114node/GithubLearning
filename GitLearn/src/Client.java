@@ -18,6 +18,8 @@ public class Client {
         // this is work that Jun is doing
         System.out.println("Some work that Jun was working on");
 
+        // client test
+        System.out.println("Jun working again...");
 
     }
 }
