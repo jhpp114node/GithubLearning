@@ -7,6 +7,9 @@ public class Client {
         // merge it into developement.
 
         System.out.println("Some code that other dev worked on and merge it into the Developement branch");
-        
+
+        // This is work that is being done by Extra
+        System.out.println("Some work that is being done by Extra");
+
     }
 }
